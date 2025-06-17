@@ -17,10 +17,10 @@ import psycopg2
 
 # ─────────────────────────── Configuración ────────────────────────────
 DB_CONFIG = dict(
-    dbname="comedero",
+    dbname="comedero_xc1x",
     user="saidy",
-    password="xqrB8b6lOhEk1kM0lY2zwkEDVwzZiirI",
-    host="dpg-d18bhjggjchc73eog98g-a.oregon-postgres.render.com",
+    password="DQwbfDb2vsGmPtAzGRvszyhBZpw8qxCr",
+    host="dpg-d18vt8qli9vc739fcpi0-a.oregon-postgres.render.com",
     port=5432
 )
 
