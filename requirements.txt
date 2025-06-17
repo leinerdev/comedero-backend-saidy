@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+psycopg2-binary          # si usas PostgreSQL
+python-dotenv            # si cargas variables de entorno

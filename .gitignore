@@ -1,0 +1,32 @@
+# ─── Entorno virtual ───────────────
+venv/
+ENV/
+env/
+.venv/
+
+# ─── Archivos Python bytecode ──────
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ─── Archivos de configuración de usuario ─────
+*.env
+.env.*
+*.sqlite3
+*.db
+
+# ─── Archivos de log ───────────────
+*.log
+
+# ─── Archivos de sistema ───────────
+.DS_Store
+Thumbs.db
+
+# ─── VSCode ────────────────────────
+.vscode/
+
+# ─── Pytest cache ──────────────────
+.pytest_cache/
+
+# ─── Render ────────────────────────
+render.yaml
